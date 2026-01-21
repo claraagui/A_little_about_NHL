@@ -113,10 +113,6 @@ La NHL es considerada la liga de hockey más competitiva del mundo, es uno de mi
 
 ---
 
-## 📚 Referencias
-NHL: https://www.nhl.com/history/a-brief-history-of-the-league 
-IIHF: https://www.iihf.com
-Chicago Wolves: https://www.chicagowolves.com/gameday/hockey-101/explanation-of-common-rules/ 
 [NHL]: https://www.nhl.com  
 [IIHF]: https://www.iihf.com
-[Rules]:https://www.chicagowolves.com/gameday/hockey-101/explanation-of-common-rules/
+[Rules]: https://www.chicagowolves.com/gameday/hockey-101/explanation-of-common-rules/
